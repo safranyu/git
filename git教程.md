@@ -205,4 +205,5 @@ git stash apply stash@{0}
 
 5. Feature
 6. 多人协作
+7. [Gitflow工作流](https://blog.csdn.net/chaiyu2002/article/details/80945211)
 https://lvwzhen.gitbooks.io/git-tutorial/index.html
